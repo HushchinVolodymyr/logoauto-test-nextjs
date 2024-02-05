@@ -132,7 +132,7 @@ export default function Home() {
         <div className='bg-[#346CD9]/[.12] mt-[84px]'>
           <div className='max-w-[1280px] h-[400px] m-auto flex justify-between'>
             <div className='flex flex-col justify-center items-center w-[640px]'>
-              <h1 className='font-sans font-semibold text-[#343434] text-[20px] text-center w-[400px]'>"Unbelievable this is a dream come true, no way would I ever think I would own a car like this. What great blokes. Thank you very much! 5 star from me!!!"</h1>
+              <h1 className='font-sans font-semibold text-[#343434] text-[20px] text-center w-[400px]'>&quot;Unbelievable this is a dream come true, no way would I ever think I would own a car like this. What great blokes. Thank you very much! 5 star from me!!!&quot;</h1>
               <h2 className='mt-[29px] font-sans font-regular text-[16px]'>Danny Churchman</h2>
               <Image src={dots} alt='dots' className='mt-[40px]'></Image>
             </div>

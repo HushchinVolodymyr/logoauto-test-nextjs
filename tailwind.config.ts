@@ -15,6 +15,7 @@ const config: Config = {
       },
       fontFamily: {
         rajdhani: ['Rajdhani', 'sans-serif'],
+        sans: ['Open sans', '']
       },
     },
   },
